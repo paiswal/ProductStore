@@ -1,0 +1,4 @@
+Learn about CORS
+install "npm i react-icons" for icons
+
+learn about Global center and zeutand
